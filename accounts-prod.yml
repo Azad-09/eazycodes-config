@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Eazybanks accounts microservice for prod environment"
+  message: "Welcome to Eazybanks accounts microservice for webhook environment"
   contactDetails:
     name: "Keyuri Aishwarya - Product owner"
     email: "aishwarya@eazybanks.com"
