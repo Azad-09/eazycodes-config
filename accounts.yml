@@ -2,7 +2,7 @@ build:
     version: "3.0"
 
 accounts:
-    message: "Welcome to Eazybanks accounts microservice for dev docker environment"
+    message: "Welcome to Eazybanks accounts microservice for dev environment"
     contactDetails:
         name: "John Doe - Developer"
         email: "doe@eazybanks.com"
